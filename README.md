@@ -1,1 +1,1 @@
-# studentmanagement
+A Student Management System using JSP, Servlets, JDBC, and MySQL allows users to add, update, delete, and view student records. The system includes a login page, a dashboard for managing students, and a database for storing student details. CRUD operations are handled through Servlets, while JSP is used for the frontend.
